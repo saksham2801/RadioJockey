@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886434517525",
+    "firebase_url": "https://radiojockey-bdfbb.firebaseio.com",
+    "project_id": "radiojockey-bdfbb",
+    "storage_bucket": "radiojockey-bdfbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886434517525:android:0f1827176eb31fa0d2b41c",
+        "android_client_info": {
+          "package_name": "com.example.radiojockey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886434517525-urdffrcm6194f7s5h8i03jmphidkvtjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radiojockey",
+            "certificate_hash": "005166b780db487c440eccec2795190ac752a408"
+          }
+        },
+        {
+          "client_id": "886434517525-78ikj1qfbe9hkgcph13es3n5hvrl0q0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzF2hszDgSOcMQfqXFNeZ5mCLSn4edSKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886434517525-78ikj1qfbe9hkgcph13es3n5hvrl0q0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
